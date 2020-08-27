@@ -1,0 +1,9 @@
+_id: wrk_db9b13f5b86845f682c888973cae9de9
+created: 1594917559337
+description: This is a simple Plex information server.  You can find out more
+  about Plex at [https://www.plex.tv/](https://www.plex.tv/)
+modified: 1598456894803
+name: Plex Media 1.0.2
+parentId: null
+scope: spec
+type: Workspace
